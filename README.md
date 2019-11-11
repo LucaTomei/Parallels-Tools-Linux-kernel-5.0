@@ -3,8 +3,9 @@ Update for Parallels Tools kernel 5.0. For full working Shared Folder:
 - Launch Terminal (gnome-terminal) 
 
 ```shell
-cd Parallels-Tools-Linux-kernel-5.0
+cd Parallels-Tools-Linux-kernel-5.0-master
 sudo chmod 777 * -Rv
+cd ~/Downloads/Parallels-Tools-Linux-kernel-5.0-master/prl/installer
 ```
 
 - For Disk-Share 
